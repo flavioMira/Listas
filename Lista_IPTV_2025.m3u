@@ -1,0 +1,90 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 xui-id="364481" tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxTyM6PhDjXJaUbhzcYQxdbL.png" group-title="CANAIS GLOBO",GLOBO BRASILIA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeY3SGBKmKajpg2AefIUEAwM/ts
+#EXTINF:-1 xui-id="364484" tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxTyM6PhDjXJaUbhzcYQxdbL.png" group-title="CANAIS GLOBO",GLOBO MINAS
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYedIXD6Kr6ezqaJc2kXjgeWI/ts
+#EXTINF:-1 xui-id="364487" tvg-id="" tvg-name="GLOBO NORDESTE" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxTyM6PhDjXJaUbhzcYQxdbL.png" group-title="CANAIS GLOBO",GLOBO NORDESTE
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeZkSyTjV9qEJtm7swA5SkwE/ts
+#EXTINF:-1 xui-id="364490" tvg-id="" tvg-name="GLOBO RBS TV PORTO ALEGRE" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxTyM6PhDjXJaUbhzcYQxdbL.png" group-title="CANAIS GLOBO",GLOBO RBS TV PORTO ALEGRE
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeUoQ1FWIL-w2mscg3AgAo-4/ts
+#EXTINF:-1 xui-id="364493" tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxTyM6PhDjXJaUbhzcYQxdbL.png" group-title="CANAIS GLOBO",GLOBO RJ
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeS3V-seNdnAC24MhRiATTWM/ts
+#EXTINF:-1 xui-id="364496" tvg-id="" tvg-name="GLOBO SP" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxTyM6PhDjXJaUbhzcYQxdbL.png" group-title="CANAIS GLOBO",GLOBO SP
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYefGUSto-n4HteIVSMULDfrc/ts
+#EXTINF:-1 xui-id="364503" tvg-id="" tvg-name="GLOBO BAHIA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxTyM6PhDjXJaUbhzcYQxdbL.png" group-title="CANAIS GLOBO",GLOBO BAHIA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeUhzuvImCWO1fyLGs775iSU/ts
+#EXTINF:-1 xui-id="364579" tvg-id="" tvg-name="RECORD BA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD BA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeWllm9aLcUhHBHQsCr47lKQ/ts
+#EXTINF:-1 xui-id="364582" tvg-id="" tvg-name="RECORD BRASILIA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD BRASILIA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeQpA5AJELo9oo_7ogjD9YRI/ts
+#EXTINF:-1 xui-id="364585" tvg-id="" tvg-name="RECORD GO" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD GO
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeWbhz-zWNSeQxCK1oYkb_jw/ts
+#EXTINF:-1 xui-id="364588" tvg-id="" tvg-name="RECORD LITORAL E VALES" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD LITORAL E VALES
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeS6BFQeIMRGkgpstj_Q63gc/ts
+#EXTINF:-1 xui-id="364591" tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD MANAUS
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeT8gfIr33YMiwJIjtmIXVs4/ts
+#EXTINF:-1 xui-id="364594" tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD MINAS
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeZac9NEOAZzcgNv_8uckpIM/ts
+#EXTINF:-1 xui-id="364597" tvg-id="" tvg-name="RECORD PA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD PA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeeDmb2SmvOSRJTRXdQi2llQ/ts
+#EXTINF:-1 xui-id="364600" tvg-id="" tvg-name="RECORD RJ" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD RJ
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYea9R6wqb2IP-6tLTIAIUUkA/ts
+#EXTINF:-1 xui-id="364603" tvg-id="" tvg-name="RECORD RS" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD RS
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeQZVbWfaqe2VtFoXoCUkUCQ/ts
+#EXTINF:-1 xui-id="364606" tvg-id="" tvg-name="RECORD SP" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ5g0F6UfLnEG9AT0-QeY53.png" group-title="CANAIS RECORD",RECORD SP
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeZNgNOl28S-oHGH_RvFlliY/ts
+#EXTINF:-1 xui-id="364609" tvg-id="" tvg-name="SBT  BA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxShcV4WStFWnrwhNt-Y79VB.png" group-title="CANAIS SBT",SBT  BA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYecdCtan-0_QE5Tup92cpXww/ts
+#EXTINF:-1 xui-id="364612" tvg-id="" tvg-name="SBT BRASILIA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxShcV4WStFWnrwhNt-Y79VB.png" group-title="CANAIS SBT",SBT BRASILIA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYedyL63EjX5nmRZPfma4uMVc/ts
+#EXTINF:-1 xui-id="364615" tvg-id="" tvg-name="SBT MINAS" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxShcV4WStFWnrwhNt-Y79VB.png" group-title="CANAIS SBT",SBT MINAS
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeUvzvBUf3phzu8yzJZNCoXc/ts
+#EXTINF:-1 xui-id="364618" tvg-id="" tvg-name="SBT PARA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxShcV4WStFWnrwhNt-Y79VB.png" group-title="CANAIS SBT",SBT PARA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeQ8sHswTph1WZtMHrA2gBWU/ts
+#EXTINF:-1 xui-id="364621" tvg-id="" tvg-name="SBT RJ" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxShcV4WStFWnrwhNt-Y79VB.png" group-title="CANAIS SBT",SBT RJ
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeeH1bfbRt7TFnunQiu7UbpE/ts
+#EXTINF:-1 xui-id="364624" tvg-id="" tvg-name="SBT RS" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxShcV4WStFWnrwhNt-Y79VB.png" group-title="CANAIS SBT",SBT RS
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeTXgP5PomfF-izgTJuhe3Ws/ts
+#EXTINF:-1 xui-id="364627" tvg-id="" tvg-name="SBT SP" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxShcV4WStFWnrwhNt-Y79VB.png" group-title="CANAIS SBT",SBT SP
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeUb8OWf5Kli0CH9c3gMMPrQ/ts
+#EXTINF:-1 xui-id="364630" tvg-id="" tvg-name="BAND BA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRiwzlL99T32xoba13lEn9U.png" group-title="CANAIS BAND",BAND BA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeVjm3Qa69usvbjFRZAenuD8/ts
+#EXTINF:-1 xui-id="364633" tvg-id="" tvg-name="BAND BRASILIA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRiwzlL99T32xoba13lEn9U.png" group-title="CANAIS BAND",BAND BRASILIA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeQ9WarPIgJkiCR7Lyxj836Y/ts
+#EXTINF:-1 xui-id="364636" tvg-id="" tvg-name="BAND MINAS" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRiwzlL99T32xoba13lEn9U.png" group-title="CANAIS BAND",BAND MINAS
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeXerE4CWcmeTcmsGjMcyKE4/ts
+#EXTINF:-1 xui-id="364639" tvg-id="" tvg-name="BAND RJ" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRiwzlL99T32xoba13lEn9U.png" group-title="CANAIS BAND",BAND RJ
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeX8DE7YhlU96KaT7dEiAAbc/ts
+#EXTINF:-1 xui-id="364642" tvg-id="" tvg-name="BAND RS" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRiwzlL99T32xoba13lEn9U.png" group-title="CANAIS BAND",BAND RS
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeX9Pu7IU2G2MY9B7GbBqvTI/ts
+#EXTINF:-1 xui-id="364645" tvg-id="" tvg-name="BAND SP" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRiwzlL99T32xoba13lEn9U.png" group-title="CANAIS BAND",BAND SP
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeVBs9mlDezxWH3dVwjJWIJA/ts
+#EXTINF:-1 xui-id="364648" tvg-id="" tvg-name="AGRO BRASIL TV" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRc2Ke8lL-V0EOyfdZvhDxoY5cTaiqnqAAypzuAGR0xmA.png" group-title="CANAIS ABERTOS",AGRO BRASIL TV
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeegXHFCBCfd0exFtdOix_js/ts
+#EXTINF:-1 xui-id="364651" tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxSVWiqZRzMQPcv85s_Hk1DOcnTzEZsqkwq2GxjQfafPZw.png" group-title="CANAIS ABERTOS",CANAL DO BOI
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeX6OD3gvPl9bVYs9qNhEiB4/ts
+#EXTINF:-1 xui-id="364654" tvg-id="" tvg-name="CANAL GOV" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQa0BUm2qcDfQl5F21fU-5A.png" group-title="CANAIS ABERTOS",CANAL GOV
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYedgEbdY31Tj4GVWT1x-vOBA/ts
+#EXTINF:-1 xui-id="364657" tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQ6p9j2HRBKQNYFOWsy58c6338v12vO84IrxhuabRM7tA.png" group-title="CANAIS ABERTOS",CANAL RURAL
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYee1tOpr0cZ-E1ZLj4bxjriE/ts
+#EXTINF:-1 xui-id="364660" tvg-id="" tvg-name="FUTURA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQq19sJvMUI3Jvr3btrkH4-.png" group-title="CANAIS ABERTOS",FUTURA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeYVzgw3L_OJ2UeMb25LvWxs/ts
+#EXTINF:-1 xui-id="364663" tvg-id="" tvg-name="REDE BRASIL" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxS-MK3DAmAbwzQ4G2V7Ywkj6TE1AMgcdO3wGQQ9rkNkkw.png" group-title="CANAIS ABERTOS",REDE BRASIL
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeXDyzt0UaWZ5wtGQNsYQnqM/ts
+#EXTINF:-1 xui-id="364666" tvg-id="" tvg-name="REDE FAMILIA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRvgJ919sABdexHN_bGg1KDGR9B7oZ-VN7df9sueSQ3UQ.png" group-title="CANAIS ABERTOS",REDE FAMILIA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeVO0aOnyhpje9rtmWsFH7gw/ts
+#EXTINF:-1 xui-id="364669" tvg-id="" tvg-name="REDE TV SP" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxT7bmI3ZiiqV9c2yCUDJzzN.png" group-title="CANAIS ABERTOS",REDE TV SP
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeRHp32wCVX40BtKbuteXw5I/ts
+#EXTINF:-1 xui-id="364672" tvg-id="" tvg-name="TERRA VIVA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRPw8jMTHc7_8CL97HlUGBI6vXQrqmIWbNrhGEyjTz7LA.png" group-title="CANAIS ABERTOS",TERRA VIVA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeTMrfpOAkLwshoonAkGKm1M/ts
+#EXTINF:-1 xui-id="364675" tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxSNH9qOlVWroAXhwNpN_VIk.png" group-title="CANAIS ABERTOS",TV BRASIL
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeUeLWPvXXVamCeYLr2eyMeg/ts
+#EXTINF:-1 xui-id="364678" tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQGGN6gILEqhz0mXstefE5H.png" group-title="CANAIS ABERTOS",TV CAMARA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeQcgksVfNxWWOKzt_x_mv1A/ts
+#EXTINF:-1 xui-id="364681" tvg-id="" tvg-name="TV CULTURA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxSo4eFBu2IaWu40g_ejoC_d.png" group-title="CANAIS ABERTOS",TV CULTURA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeTwTp-BbBnBEJ8fw3e3Nmpc/ts
+#EXTINF:-1 xui-id="364684" tvg-id="" tvg-name="TV JUSTICA" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxQyBdty_gMZq-XeuAhO-9GBY1dJb6YkxbKYmLu-DP4g4w.png" group-title="CANAIS ABERTOS",TV JUSTICA
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYedhMhmN0VmEB_U7rledRF_8/ts
+#EXTINF:-1 xui-id="364687" tvg-id="" tvg-name="TV SENADO" tvg-logo="http://d.jklmn.pro:80/images/b_IyknUHkAt-admPvKyipaEdmcTUJ2l_DwORKzE4sxRsE4QaHBQuHG5sZuZxWjuh.png" group-title="CANAIS ABERTOS",TV SENADO
+http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeZFC19a-pOBttAV1puIe2hk/ts
