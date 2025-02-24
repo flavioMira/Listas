@@ -521,18 +521,370 @@ http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeYJFbShviX26558g_-Vw8o8/ts
 #EXTINF:-1 xui-id="365194" tvg-id="" tvg-name="ZILLION" tvg-logo="http://d.jklmn.pro:80/images/wHViF_97ya2wYkZmEHQ6Ap7s2yC2xPd8QlVsmqNqnaMEOPzi9RhpOWZxRasJr6ML.png" group-title="CANAIS 24 HORAS",ZILLION
 http://d.jklmn.pro:80/play/GJQsl6aQVXdVpxAeeQwYeXE6dvNuFtMXUgZlTeDRT58/ts
 
-# FILMES, MOVIES, DRAMA
+# FILMES, MOVIES
 #EXTINF:-1 xui-id="215805" tvg-name="Com Você Volume 1" tvg-logo="https://image.tmdb.org/t/p/w500/dEgBV4Tuo9jFZh7rFiQEbiY91sT.jpg" group-title="FILMES > DRAMA > LEGENDADO",Com você Volume 1
 http://d.jklmn.pro:80/play/Tc4yzpQYBQ4eSmd85beMXGcAbtlI0t2kETikYf6joxITs_GrmjKNMtbygaMeR5-c#.mp4
 
 #EXTINF:-1 xui-id="215803" tvg-name="Com você Volume 2" tvg-logo="https://image.tmdb.org/t/p/w500/yiY4nI6HPAqnpGt5cPmszC6pTR7.jpg" group-title="FILMES > DRAMA > LEGENDADO",Com você Volume 2
 http://d.jklmn.pro:80/play/Tc4yzpQYBQ4eSmd85beMXMbEYLwkt1hlr3mnpmtA9vB7C9Uem-vkInjpgNfx7rfw#.mp4
 
-#EXTINF:-1 xui-id="215804" tvg-name="Movie Natal 2013" tvg-logo="https://image.tmdb.org/t/p/w500/lF0Z5nyh7HAWx3Xb6CQvD3e0mBQ.jpg" group-title="FILMES > COMEDIA > LEGENDADO",Movie Natal
-http://d.jklmn.pro:80/play/Tc4yzpQYBQ4eSmd85beMXERlbK7KxuN3Aepeo_IGBXvJ5zuUVdUKMFnRMh62gSUT#.mp4
-
 #EXTINF:-1 xui-id="248402" tvg-name="Venezuela Uma Tragédia do Século 21" tvg-logo="https://image.tmdb.org/t/p/w500/lF0Z5nyh7HAWx3Xb6CQvD3e0mBQ.jpg" group-title="FILMES > DRAMA > PORTUGUÊS",Venezuela Uma Tragédia do Século 21
 http://d.jklmn.pro:80/play/Tc4yzpQYBQ4eSmd85beMXJG4Imsb_Nyk6vFRLZ3JVNQZS5CfgF4wCvodQ1OmNG_X#.mp4
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES",Capitão América: Admirável Mundo Novo
+#EXTINF:-1 xui-id="215825" tvg-name="(500) Dias com Ela (2009)" tvg-logo="https://image.tmdb.org/t/p/w500/wkspryd5Ve93npEge3OFYCRgYwY.jpg" group-title="FILMES > COMEDIA",(500) Dias com Ela (2009)
+http://d.jklmn.pro:80/play/Tc4yzpQYBQ4eSmd85beMXLCCRDioazovi3_Z6YGgXP-TN_tKL47rQvTHDQoettIZ#.mp4
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/L89LBAz.png" group-title="FILMES > DISNEY > MARVEL",Capitão América: Admirável Mundo Novo
 http://fhd4.oneplayer.site/343rt342wtg34wetg34retg4rghy5rh/FHD4/tt14513804.mp4
+
+# SERIES
+
+#EXTINF:-1 xui-id="220837" tvg-name="A Casa de Moda 2024 S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KdPBpog0s0FmSXqMGGdrNrT2KX.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E01
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYKsbhoKg7_fmy4THSKCD-eIzsor8rYu7oy7eX3ArGNH#.mp4
+#EXTINF:-1 xui-id="220838" tvg-name="A Casa de Moda 2024 S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8xqL3QFqfg4TEfZF0PAZTWvYZ0.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E02
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYKsbhoKg7_fmy4THSKCD-cF1JrsibfqG3asULjetDXa#.mp4
+#EXTINF:-1 xui-id="220840" tvg-name="A Casa de Moda 2024 S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/hqAzRJYfUIhZScNMJrDKFJRGPUr.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E03
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHdHWBF5YjfHUym0qaHyf6cgwoPCULxW4bR5csg6lXTgT#.mp4
+#EXTINF:-1 xui-id="220842" tvg-name="A Casa de Moda 2024 S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/dAz4nSRI8yDTwVEOWa0QZLNi9Cy.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E04
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHdHWBF5YjfHUym0qaHyf6cjR9b2Vi7cgWbTCbAm7NOD7#.mp4
+#EXTINF:-1 xui-id="220843" tvg-name="A Casa de Moda 2024 S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1MBylH4IX5fHYAmQNKqnkT7xoI.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E05
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHdHWBF5YjfHUym0qaHyf6chhOcLSJeRjbqsZNr0TX6Zr#.mp4
+#EXTINF:-1 xui-id="220846" tvg-name="A Casa de Moda 2024 S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cDeoCK1dfCElenTYNdkQJoQgyf.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E06
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHdHWBF5YjfHUym0qaHyf6chFKdBCNCuS_o7KhAoNE8-1#.mp4
+#EXTINF:-1 xui-id="220847" tvg-name="A Casa de Moda 2024 S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRN2bGbyH71mC2vR7EI8fUwkvT0.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E07
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHdHWBF5YjfHUym0qaHyf6cgd9kh3c6z_lwKpCXbiGOqk#.mp4
+#EXTINF:-1 xui-id="220849" tvg-name="A Casa de Moda 2024 S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IYyekyTR0aUiBTfnwbBTSM7nV1.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E08
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHdHWBF5YjfHUym0qaHyf6chQeFN2mRWMHsnu-WdwIOAN#.mp4
+#EXTINF:-1 xui-id="220851" tvg-name="A Casa de Moda 2024 S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mviGvsO8iEIpe0yjn8fQXs46cQ7.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E09
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHTIt_K8FH2T151sT-yixcVJsENI7Bzf_XW_1_hsBkXfF#.mp4
+#EXTINF:-1 xui-id="220853" tvg-name="A Casa de Moda 2024 S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/fV54q3jmXCFZxQaL3TqO3Lugv16.jpg" group-title="SÉRIES > APPLE TV > A CASA DE MODA",A Casa de Moda 2024 S01E10
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHTIt_K8FH2T151sT-yixcVKCP8M9BYD_xIrjXO3x9Ty1#.mp4
+
+#EXTINF:-1 xui-id="228226" tvg-name="A Feiticeira 1964 S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66Q6uYoRxvRNba2uZdzapcLjhJA.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E01
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHXWyg9s4E1FCHjHoZOCwFQHHgrEs0xa9ITmjyLeibf1Q#.mp4
+#EXTINF:-1 xui-id="228227" tvg-name="A Feiticeira 1964 S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tPaBYlX3u8Dhm5GGyfl4Bsb3NX.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E02
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHXWyg9s4E1FCHjHoZOCwFQHOCVM3SQWGsSF2E8InZxAM#.mp4
+#EXTINF:-1 xui-id="228228" tvg-name="A Feiticeira 1964 S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHxIQiBZMJu2LSeSQgi2ANZhm8v.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E03
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHXWyg9s4E1FCHjHoZOCwFQGzAyjeM0ALoo-36Du0mTXa#.mp4
+#EXTINF:-1 xui-id="228229" tvg-name="A Feiticeira 1964 S01E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TR2hZtF0YV7qCv4MGaleDdsSx5.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E04
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHXWyg9s4E1FCHjHoZOCwFQHZ9pWno-UsMawSOKe0at9n#.mp4
+#EXTINF:-1 xui-id="228230" tvg-name="A Feiticeira 1964 S01E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vJogjgUB70XYFHsmDKt5Dv6Eaa.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E05
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461rCISnBByS1WEM74WbG1nE4#.mp4
+#EXTINF:-1 xui-id="228231" tvg-name="A Feiticeira 1964 S01E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znsX3ZFIb3tbllHOwpaogC5BFU5.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E06
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461pZvoeLF_N5UoPK31iXZdDT#.mp4
+#EXTINF:-1 xui-id="228232" tvg-name="A Feiticeira 1964 S01E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YgP7i392gp5qLvDtlYH7w7znaO.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E07
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461px7YTFH7qz06MNZROKUlLt#.mp4
+#EXTINF:-1 xui-id="228233" tvg-name="A Feiticeira 1964 S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHjsX8mAw7BStIoiBbO148584fg.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E08
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461oZ0y8IYfjgkt33NfpdH37a#.mp4
+#EXTINF:-1 xui-id="228234" tvg-name="A Feiticeira 1964 S01E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTWyGPsSliSqfkY0vq1dtzyb4ll.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E09
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461rXNKKkWTWUpS5RXRqz4x_k#.mp4
+#EXTINF:-1 xui-id="228235" tvg-name="A Feiticeira 1964 S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wn8m8AL387jFdAs5PMCJlYOUjJv.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E10
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461qb-4x33fQZU-5r9y7l7uSO#.mp4
+#EXTINF:-1 xui-id="228236" tvg-name="A Feiticeira 1964 S01E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4hERTIMWwPFLBLMCrwklvuG58P.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E11
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461op1wBxtsOKBrk9Y0OcEcJd#.mp4
+#EXTINF:-1 xui-id="228237" tvg-name="A Feiticeira 1964 S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mt2lY3bbqkCNovfjfqNsULLMQ8z.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E12
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461pQIME6-H6zC73ywlwlQsvl#.mp4
+#EXTINF:-1 xui-id="228238" tvg-name="A Feiticeira 1964 S01E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4HLhtj5jZm1F11jiDcz9lv2eVO.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E13
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461o9CbpufNT51T6DJQDenazj#.mp4
+#EXTINF:-1 xui-id="228239" tvg-name="A Feiticeira 1964 S01E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJAtZk9yPS7PA9u6MOQo4fzw7ur.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E14
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRxHHJ6abJwSoDh7h_u461qiBlwOHZvI_pehvyHf59ii#.mp4
+#EXTINF:-1 xui-id="228240" tvg-name="A Feiticeira 1964 S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dlL0eKQftq5xDk69GDO7TvF5CiZ.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E15
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cWdiqagGrZk60XiQ_X7EoUP#.mp4
+#EXTINF:-1 xui-id="228241" tvg-name="A Feiticeira 1964 S01E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MzphOm6M3XDU5YgwDOkvBxCjMd.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E16
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cWNE2ueIHKKu9wzUlP0Auvm#.mp4
+#EXTINF:-1 xui-id="228242" tvg-name="A Feiticeira 1964 S01E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niRhJjjeSKLQO8adK6bXlK9WvhJ.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E17
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cVtZJkGyBb6j8PETzThqE8a#.mp4
+#EXTINF:-1 xui-id="228243" tvg-name="A Feiticeira 1964 S01E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/haiNMDfejCjE74DpwTmUvU3IJpT.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E18
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cVX9xxc6ez3S_nWGzK6sqNp#.mp4
+#EXTINF:-1 xui-id="228244" tvg-name="A Feiticeira 1964 S01E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fTi7VzZm61OEIaBWJc1rJxp33e.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E19
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cUvzhm1EtNI3jHgwC0clCha#.mp4
+#EXTINF:-1 xui-id="228245" tvg-name="A Feiticeira 1964 S01E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5fDtoOtOVnJW5BZoKg0jJUFzql.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E20
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cXTyVjz0fpH-cdufSQkilBo#.mp4
+#EXTINF:-1 xui-id="228246" tvg-name="A Feiticeira 1964 S01E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2ozUxjbYhKPHpS3G8mQ5bub8ia.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E21
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cW0X6WLnKCeeTHHxAuuc_vM#.mp4
+#EXTINF:-1 xui-id="228247" tvg-name="A Feiticeira 1964 S01E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxPmOZ3sXjY1O6xP2QlFx6RZIPq.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E22
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cUlXP0MAmR6lLxw-rHTCB7t#.mp4
+#EXTINF:-1 xui-id="228248" tvg-name="A Feiticeira 1964 S01E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDy7yEev6LwyGDbqHoykuzPLjfB.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E23
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cUSPmHHCYNxl50M-S_rrmsC#.mp4
+#EXTINF:-1 xui-id="228249" tvg-name="A Feiticeira 1964 S01E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMS5OONojHEcIAH2j39C69KrQk9.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E24
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZQGavNZyGBNNuzA8rKf7cU-hRMyAF9g_2IcMClCK6TM#.mp4
+#EXTINF:-1 xui-id="228250" tvg-name="A Feiticeira 1964 S01E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtL2tWeuTm6S6JIDJKr8OKMv8rX.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E25
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2XbhBrB__xFqhnhEpMZQQLZ6#.mp4
+#EXTINF:-1 xui-id="228251" tvg-name="A Feiticeira 1964 S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Zh2FZOeGLMwo4Zv4pFt0jqzFIq.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E26
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2Xbtg4AeH_m1HqqgMQ1zbKnQ#.mp4
+#EXTINF:-1 xui-id="228252" tvg-name="A Feiticeira 1964 S01E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7gqQZ9Nu2XPpgkMV9dC9cSJqTu.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E27
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2Xb1tzIlQpwAdHRklIqSXaim#.mp4
+#EXTINF:-1 xui-id="228253" tvg-name="A Feiticeira 1964 S01E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9X850BdokErnzWUdmh357iW0Lot.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E28
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2XZQJkwPprfuqKWO2UuXmbdH#.mp4
+#EXTINF:-1 xui-id="228254" tvg-name="A Feiticeira 1964 S01E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exXHXAIPDSDEe5PlIVkAN9XDBNa.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E29
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2Xa0VWX79TXv77d7udxUkCT5#.mp4
+#EXTINF:-1 xui-id="228255" tvg-name="A Feiticeira 1964 S01E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlmkUPXE86hWQVDQMZN2cGgSaGD.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E30
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2XYIsMlVPbq3kjHkrECbiyYp#.mp4
+#EXTINF:-1 xui-id="228256" tvg-name="A Feiticeira 1964 S01E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sAO6bieUcJDNYxkzp7FHUqirwr.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E31
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2XZZ5qKqJZlJPTEfRDvEaBjm#.mp4
+#EXTINF:-1 xui-id="228257" tvg-name="A Feiticeira 1964 S01E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omscWkUi55oWiMLUIazX0S1tPWo.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E32
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2XazG3Lttyj8kaHUfTKhp4gc#.mp4
+#EXTINF:-1 xui-id="228258" tvg-name="A Feiticeira 1964 S01E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYNQ1SFjphRjtfj6HXKYa6bjnfK.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E33
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2XZ68ThiIWE0E4ByKgMxEysf#.mp4
+#EXTINF:-1 xui-id="228259" tvg-name="A Feiticeira 1964 S01E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/53gL8XZmPOydNAOP2EyUCbPCpQA.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E34
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHfseS4vmSxfX0sQRABze2XaMQuKsVuEVFPo9TqLyZvJB#.mp4
+#EXTINF:-1 xui-id="228260" tvg-name="A Feiticeira 1964 S01E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bAxsEFnNneXTOCxEkHxwAW5bBPd.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E35
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L437jME91tjYXm2fRwaeuFel#.mp4
+#EXTINF:-1 xui-id="228261" tvg-name="A Feiticeira 1964 S01E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLig9Si81zZJDXEQpyfuBePVmtD.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S01E36
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L43UtYJWZ6bbTI6Ik7LJAFrn#.mp4
+#EXTINF:-1 xui-id="228262" tvg-name="A Feiticeira 1964 S02E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GXXxLPyNypQe63Prd0Hb4XGoQ0.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E01
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L427gvw9MaZ7epCoBqyeOlfT#.mp4
+#EXTINF:-1 xui-id="228263" tvg-name="A Feiticeira 1964 S02E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5og47rBT1XMJx3SpxWpIKLHHVr9.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E02
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L43JZtIVMi5Lj73LGZHOvYKs#.mp4
+#EXTINF:-1 xui-id="228264" tvg-name="A Feiticeira 1964 S02E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80HtQP43ycDU3k5LT4w409wucKK.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E03
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L43bD5SeBVHRjYnhA_FbHVp_#.mp4
+#EXTINF:-1 xui-id="228265" tvg-name="A Feiticeira 1964 S02E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9xAspvEZOHFZHchsz2Ocg26Stt.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E04
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L41UaoEGOQXcEoT1b8yzm6jE#.mp4
+#EXTINF:-1 xui-id="228266" tvg-name="A Feiticeira 1964 S02E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69nVWhHmxqkEg7YA34Jam4Sybmm.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E05
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L41HGupaUHFKmxXkk7KNwgoa#.mp4
+#EXTINF:-1 xui-id="228267" tvg-name="A Feiticeira 1964 S02E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ItFN0Lwvx5bVm1fAa6XazvgXbn.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E06
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L40c6B-VJCw005ZiE_MQ3tY4#.mp4
+#EXTINF:-1 xui-id="228268" tvg-name="A Feiticeira 1964 S02E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3W0H5ShGEmuMjv6syvBrYGBjTAW.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E07
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L40LB-EdH4f5dPMPaGEFMnUQ#.mp4
+#EXTINF:-1 xui-id="228269" tvg-name="A Feiticeira 1964 S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msLg2C3bKdEr3XKGNHimY9UPeOy.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E08
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHeAx1Dw2IY4-CxDOLPj0L43IH8VGxf81clWPQJYlkeRa#.mp4
+#EXTINF:-1 xui-id="228270" tvg-name="A Feiticeira 1964 S02E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45fDm1diAOUtqhkMlXLvZ6tPD0.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E09
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnA0JZL1PRqNzAJkt_C5Xi2j#.mp4
+#EXTINF:-1 xui-id="228271" tvg-name="A Feiticeira 1964 S02E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stjyEFhbM4z3StNaRArmX07Gt3g.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E10
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnDN6KobMF3-3dRUwQKVuwNL#.mp4
+#EXTINF:-1 xui-id="228272" tvg-name="A Feiticeira 1964 S02E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2NkxH3WYva5hP1XEkT6XBqsB1V.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E11
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnAPt8wPDfS-oHruB4ppN2yv#.mp4
+#EXTINF:-1 xui-id="228273" tvg-name="A Feiticeira 1964 S02E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GmTHGDiiyqlXka7SKNylZd0Dqr.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E12
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnCH4TqisTwyc_U7Ch8IpFfF#.mp4
+#EXTINF:-1 xui-id="228274" tvg-name="A Feiticeira 1964 S02E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qVLrgfzpNtAfAEGYqu6vha8vK4S.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E13
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnDjo5sM7HCUvjaehZEr57vM#.mp4
+#EXTINF:-1 xui-id="228275" tvg-name="A Feiticeira 1964 S02E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idGFzjrgk3BThEzOv9qWQ9Xn7SQ.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E14
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnDBHtAAkI85MZ94acWPyFsN#.mp4
+#EXTINF:-1 xui-id="228276" tvg-name="A Feiticeira 1964 S02E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lY0TnkFASciVadlvefUzDnmIGo6.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E15
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnADj7zsE6GPBllYKGZOGJxt#.mp4
+#EXTINF:-1 xui-id="228277" tvg-name="A Feiticeira 1964 S02E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhy9x8xvWZJ3PtgZCQYTsVHvF5i.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E16
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnCyVhuM1l1i8nMJZyyhbTBe#.mp4
+#EXTINF:-1 xui-id="228278" tvg-name="A Feiticeira 1964 S02E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvmWdfYIecw6RFM0B9HwAkA97AU.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E17
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnDbbCkJK_unP45zX29EW8jI#.mp4
+#EXTINF:-1 xui-id="228279" tvg-name="A Feiticeira 1964 S02E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pW2vjq1H8XHBEucBKg7awHbhSH.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E18
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHY-viEBmFP61JAWjWaDhUnCHDZ5s9p8YKVxhU6UmEzas#.mp4
+#EXTINF:-1 xui-id="228280" tvg-name="A Feiticeira 1964 S02E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hClV3tQnUlvs3AXkTQCHlyts6aE.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E19
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCH769pcyraNCYnU9uSGsfxA#.mp4
+#EXTINF:-1 xui-id="228281" tvg-name="A Feiticeira 1964 S02E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAC1wDiuIgmACAquE478Gf41Qvu.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S02E20
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCGSON9qPk8zhPs1V6xtR7ry#.mp4
+#EXTINF:-1 xui-id="228282" tvg-name="A Feiticeira 1964 S03E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bd8m6fBstmO6EasRVzHdl8wiiVd.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E01
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCFuggjyNd6-sZQOBqRtSTUO#.mp4
+#EXTINF:-1 xui-id="228283" tvg-name="A Feiticeira 1964 S03E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLQH5y3BZlLGWroL6SVhXFJVu8I.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E02
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCE0xvEd6jdlB0exYe3pNg6l#.mp4
+#EXTINF:-1 xui-id="228284" tvg-name="A Feiticeira 1964 S03E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fiaxS80Q5aWuHb6TgEgL7HOhfq0.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E03
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCH_XuTfcqo0ilZjPUAF1xXb#.mp4
+#EXTINF:-1 xui-id="228285" tvg-name="A Feiticeira 1964 S03E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crULezk7ENHVXMEk4wZcoKO8RFp.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E04
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCG6qysE016sFxGkFHEVR9e4#.mp4
+#EXTINF:-1 xui-id="228286" tvg-name="A Feiticeira 1964 S03E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZiGfSwDj9J6hKwo6wzG37eWodU.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E05
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCEiCCwAlh63_hZRUu5ac1wb#.mp4
+#EXTINF:-1 xui-id="228287" tvg-name="A Feiticeira 1964 S03E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxBVhh1etIkWH8nGAZtkC1dYtpI.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E06
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCEBmcZM5r2NBPmB5gFmg6uT#.mp4
+#EXTINF:-1 xui-id="228288" tvg-name="A Feiticeira 1964 S03E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIvY0f3F1eC21FRlSLyxQutAiH6.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E07
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCGKWYtw0o-nQgBAwScbtWki#.mp4
+#EXTINF:-1 xui-id="228289" tvg-name="A Feiticeira 1964 S03E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIrqOlqgjbE5Ie35Y7Yg1a1XWBF.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E08
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHbTvzCI07fZNOiGlqpChFCEdZ-mVvQ0sBrMb16J8h6lj#.mp4
+#EXTINF:-1 xui-id="228290" tvg-name="A Feiticeira 1964 S03E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfItoN0RGVU477sargvBwp6zEEV.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E09
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN330fQBWV1E89mUPZtJ7TmG2c#.mp4
+#EXTINF:-1 xui-id="228291" tvg-name="A Feiticeira 1964 S03E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiYNBOiPtlKiHSC5LnHniuZ2D6A.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E10
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN331vU-ciLbNF1aJ5MtRCiIit#.mp4
+#EXTINF:-1 xui-id="228292" tvg-name="A Feiticeira 1964 S03E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8YzrFjuVlRPcPoE9s0HW3pYrpa.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E11
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN3315fFqObzE8WGKKUaL5uADv#.mp4
+#EXTINF:-1 xui-id="228293" tvg-name="A Feiticeira 1964 S03E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niAW3rGdZlhJhRU8MgPdVaDeXz4.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E12
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN330VgJ1FBn0UtpzDX5roJkoH#.mp4
+#EXTINF:-1 xui-id="228294" tvg-name="A Feiticeira 1964 S03E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpuSQwg4jQy1yWAQY0EJSyXo44m.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E13
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN333U-WWtqMto9VL6LChVN_IC#.mp4
+#EXTINF:-1 xui-id="228295" tvg-name="A Feiticeira 1964 S03E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hi9bupCwiVC8gZlKwNYRrFKuEWv.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E14
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN332q9yNc0J4b-lo7eYFijQ6C#.mp4
+#EXTINF:-1 xui-id="228296" tvg-name="A Feiticeira 1964 S03E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIuGe2rYzPw18Wxt7aF3e4Qx0Kv.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E15
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN333CnmSSyCiuiYbUft71BevZ#.mp4
+#EXTINF:-1 xui-id="228297" tvg-name="A Feiticeira 1964 S03E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz1TgUVfkptStCiPgX2mqxzjuXA.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E16
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN33002ZoQ81XJ3rurZx8_7Xtv#.mp4
+#EXTINF:-1 xui-id="228298" tvg-name="A Feiticeira 1964 S03E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5EWXmczq64DUOsc2rVpzbOnA6X.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E17
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN3321mSQAgL8imFLU2ln5a08m#.mp4
+#EXTINF:-1 xui-id="228299" tvg-name="A Feiticeira 1964 S03E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfYKhBD5XXuALz4IvubLDJB59FX.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E18
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHWz-tcvP3kt1XyaWE3WN331x9SO8uMSPKF4coLM5J2fk#.mp4
+#EXTINF:-1 xui-id="228300" tvg-name="A Feiticeira 1964 S03E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JnCFe7WmhtVcx3d8I0srl3Mt8S.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E19
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptnW0vGYi0u7K5YPdt-Fko9n#.mp4
+#EXTINF:-1 xui-id="228301" tvg-name="A Feiticeira 1964 S03E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Fd7vGp90xXmLWXQh65lUcXEeXX.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E20
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptn10u786RHyvjADLZ4hBwW4#.mp4
+#EXTINF:-1 xui-id="228302" tvg-name="A Feiticeira 1964 S03E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/25cc6T75ovBEBtfz1oLJ8nevzx0.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E21
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptl8AKIk9IuRDEne7KF_ORDH#.mp4
+#EXTINF:-1 xui-id="228303" tvg-name="A Feiticeira 1964 S03E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIdM1KefCUSDZfvZWr0SrsvWvnq.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E22
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptlUzPTEOtR0ifquTY7Rs89M#.mp4
+#EXTINF:-1 xui-id="228304" tvg-name="A Feiticeira 1964 S03E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BsKaUvhPZnXYstQ5pBEpoDUI41.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E23
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptk40PUGG_sLzfLlQRwbLQ7N#.mp4
+#EXTINF:-1 xui-id="228305" tvg-name="A Feiticeira 1964 S03E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UMTbeG7gm2vATSg4mjcU0lLeDK.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E24
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptk-P91-njCogbyOE_go4C-P#.mp4
+#EXTINF:-1 xui-id="228306" tvg-name="A Feiticeira 1964 S03E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QkJ6TB8OYGj7rxqTyQ82kywSA2.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E25
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptlkuyhPJZsYfO2H9Q6MhkYx#.mp4
+#EXTINF:-1 xui-id="228307" tvg-name="A Feiticeira 1964 S03E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvep69G0T5I40miSacIaVVdZY48.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E26
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptmmuCR86JY5S0vBcBI7f0-d#.mp4
+#EXTINF:-1 xui-id="228308" tvg-name="A Feiticeira 1964 S03E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Twcguiw5o6JazpzDCib0jYuWbM.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E27
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptkRG6nRR0Xs4As10ZvXi1TQ#.mp4
+#EXTINF:-1 xui-id="228309" tvg-name="A Feiticeira 1964 S03E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s81niDmXH5arkEFZt2QAcKfbThy.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E28
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYd3xAov6lueu0tEUQBoptk_kM5t2357PABGwSnhIUUl#.mp4
+#EXTINF:-1 xui-id="228310" tvg-name="A Feiticeira 1964 S03E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIgVJLD0EuvgQurktK8b9LPQ04U.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E29
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHphf-bNYGdBgv82E44zn2BZN#.mp4
+#EXTINF:-1 xui-id="228311" tvg-name="A Feiticeira 1964 S03E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nl1GFhA9YzDOkCmtc2NUhSJgWvc.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E30
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHpj15vYYg4SnqZRYecteSjJI#.mp4
+#EXTINF:-1 xui-id="228312" tvg-name="A Feiticeira 1964 S03E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8kyIUBwjOPG68EamM4Crzp0qjd.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E31
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHpgtusahjOGI7WraqB2zUGoc#.mp4
+#EXTINF:-1 xui-id="228313" tvg-name="A Feiticeira 1964 S03E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cfgc8nc21dHsfSUiNhbMVe5T4v.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E32
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHpjFzA9wH19ZNkPgspZIWlls#.mp4
+#EXTINF:-1 xui-id="228314" tvg-name="A Feiticeira 1964 S03E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42U35GyeWlrHy7qERi6Jchmgz36.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S03E33
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHphM_bvyhJ5E7e-GWglANYwv#.mp4
+#EXTINF:-1 xui-id="228315" tvg-name="A Feiticeira 1964 S04E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rypJ60j30QTox6zmE46ceh05xd6.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E01
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHphmC2KfdNmovMLu_ycM6wXd#.mp4
+#EXTINF:-1 xui-id="228316" tvg-name="A Feiticeira 1964 S04E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzyXadKnBnJlfOaBzMO0nURRRMK.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E02
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHpj6KqFSaf_sco5ALxPlUdoa#.mp4
+#EXTINF:-1 xui-id="228317" tvg-name="A Feiticeira 1964 S04E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2dN3VBjAKKwu2Xk9nsN53igu9O.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E03
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHpiFVz-vpBGPW4Pe5sDkjPAs#.mp4
+#EXTINF:-1 xui-id="228318" tvg-name="A Feiticeira 1964 S04E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BGMyiHBLwza24NkAGeUQQxbS55.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E04
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHpitPq1WBnkSI-0NdxXMlH8-#.mp4
+#EXTINF:-1 xui-id="228319" tvg-name="A Feiticeira 1964 S04E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbyel22U42qG2gNdN4jcTduhwZ3.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E05
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaylYQVvtVytspEKfVsSHph6uUsrge1ltuuSzjrR-dA0#.mp4
+#EXTINF:-1 xui-id="228320" tvg-name="A Feiticeira 1964 S04E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f6teZJnEUx1VaB080u1pxCZoW9.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E06
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtfUjdAsY2U-Nv_ZM9UPlBWq#.mp4
+#EXTINF:-1 xui-id="228321" tvg-name="A Feiticeira 1964 S04E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5U83S4hmNVd2iZXlCoJ72XVz59.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E07
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtdPqIPAMBub6JY_Ija2HPEY#.mp4
+#EXTINF:-1 xui-id="228322" tvg-name="A Feiticeira 1964 S04E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZnNnoiAxMlVS9O2BeBx0AEh6qn.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E08
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtc11KnNfrfBF1UlL-dPE9jK#.mp4
+#EXTINF:-1 xui-id="228323" tvg-name="A Feiticeira 1964 S04E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5kAqOIv934TbRk96btFondpMXN.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E09
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtexmBZHOnE6Zr0wb9ZHi4m5#.mp4
+#EXTINF:-1 xui-id="228324" tvg-name="A Feiticeira 1964 S04E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI5Fgma8bJdblET7h8ryLT5E6pt.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E10
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtdtJulIp5K1v7jlsXIl5K8b#.mp4
+#EXTINF:-1 xui-id="228325" tvg-name="A Feiticeira 1964 S04E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4d93BYTungABEpNTObKGaVe8uN.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E11
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtdoaEawCJ9QNxaWu_mxRvVy#.mp4
+#EXTINF:-1 xui-id="228326" tvg-name="A Feiticeira 1964 S04E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJTIz1Uboh9XtCUgrpe3zzIagpU.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E12
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtemSvCUdnA_Rn08OVpuWZ3M#.mp4
+#EXTINF:-1 xui-id="228327" tvg-name="A Feiticeira 1964 S04E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6dTaWpPsYwk6A13AuvCwbvMlFN.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E13
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtdUdrOx6QHAkADm87JBkX1E#.mp4
+#EXTINF:-1 xui-id="228328" tvg-name="A Feiticeira 1964 S04E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aeyaOb0j8LC8GkBZb2DTI75j5T0.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E14
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtf9EXfVBVne7U0-7xaeha-x#.mp4
+#EXTINF:-1 xui-id="228329" tvg-name="A Feiticeira 1964 S04E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayM4R19oyHp8DJW4Axt7hf6xJAp.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E15
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHQA9z15fie1nalaB9BpvDtco_Fb72IDdkEUK_2FSCj9s#.mp4
+#EXTINF:-1 xui-id="228330" tvg-name="A Feiticeira 1964 S04E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPa1ERKmXVXXCuNhDiGFaqxjsbJ.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E16
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6AbXU_zf6spyK3faM-dx-txH#.mp4
+#EXTINF:-1 xui-id="228331" tvg-name="A Feiticeira 1964 S04E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQZuew2oaMWeJ75rHQ8SNQqwNbt.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E17
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6AYwqMSXL-q-BAUz6nwz3cMu#.mp4
+#EXTINF:-1 xui-id="228332" tvg-name="A Feiticeira 1964 S04E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZkHeqHY20VQBTwmJRQGevwuT2y.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E18
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6AaG3geh9vuNIg3PnX7xjG8H#.mp4
+#EXTINF:-1 xui-id="228333" tvg-name="A Feiticeira 1964 S04E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ACGA6LN6SxZ62dy1Uz0SwhvCAu.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E19
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6AZxw7hYJ6q5_ivLsY0yBkxq#.mp4
+#EXTINF:-1 xui-id="228334" tvg-name="A Feiticeira 1964 S04E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEKuWaMQhulOTsyhZjJ3Firr9ao.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E20
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6AYG_nOQVLeG4yrMViaqi1bw#.mp4
+#EXTINF:-1 xui-id="228335" tvg-name="A Feiticeira 1964 S04E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eauX7W2aAxJv5rlv62LGrzgmGPT.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E21
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6AYpKzLlq7qOO_J9v11NBhfs#.mp4
+#EXTINF:-1 xui-id="228336" tvg-name="A Feiticeira 1964 S04E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64P0Yfu6q6yuMA1g2K41tdd92Bg.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E22
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6Ab0Wx3gj5NPEEjhriM-DQ3h#.mp4
+#EXTINF:-1 xui-id="228337" tvg-name="A Feiticeira 1964 S04E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkHnOgu58MpCT5wUGypBgOPmacC.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E23
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6Aaov0XUtZhsv1gwl6h5NYg4#.mp4
+#EXTINF:-1 xui-id="228338" tvg-name="A Feiticeira 1964 S04E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eEvVBftoM74NqnyoTyxQSbZm0hB.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E24
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6AZnmVnwmKLOUDiljZ-eg5ew#.mp4
+#EXTINF:-1 xui-id="228339" tvg-name="A Feiticeira 1964 S04E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kk7cYCfQVde9aBzJhUiqbtEt2Ke.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E25
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHRY62ag_EapImLOl7jHf6AbI7zu4Ij0jBvMMkjOUEvls#.mp4
+#EXTINF:-1 xui-id="228340" tvg-name="A Feiticeira 1964 S04E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMExXGdolFLrCzpS0DsS3Ac9D43.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E26
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCBf3H45-PPqcJp4kqtHqOhC#.mp4
+#EXTINF:-1 xui-id="228341" tvg-name="A Feiticeira 1964 S04E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRXU0AsxT4bHVXmKyAj4MHabASm.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E27
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCCXu53Ht5f4i1803XQ_siFU#.mp4
+#EXTINF:-1 xui-id="228342" tvg-name="A Feiticeira 1964 S04E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36fbmidhS6iX06KTezFI9vg8DDV.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E28
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCB--APjdVt-s6w6RCpIsNqv#.mp4
+#EXTINF:-1 xui-id="228343" tvg-name="A Feiticeira 1964 S04E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gplrejT2k0Ej8tXT5khIPM89SZy.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E29
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCAG_C4aPgw3aXPCxY9MVyfC#.mp4
+#EXTINF:-1 xui-id="228344" tvg-name="A Feiticeira 1964 S04E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBWdapsKkwRxBOTEOazaRkLDLPF.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E30
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCBlB_KzTCC3zGIha-qjp2rq#.mp4
+#EXTINF:-1 xui-id="228345" tvg-name="A Feiticeira 1964 S04E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szIHZRUUD4xtCxLsxU1pTKXrJA9.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S04E31
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCBmlUG90IHxsxYOJE_XqPtF#.mp4
+#EXTINF:-1 xui-id="228346" tvg-name="A Feiticeira 1964 S05E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4XK8dM5Uzis1Gw6XAnDvZDgDoY.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E01
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCDlKRxCvqaKjITflgR02z7s#.mp4
+#EXTINF:-1 xui-id="228347" tvg-name="A Feiticeira 1964 S05E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5HYQux1FOA5TP5Yu80VXQHENPRP.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E02
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCCQd-PKQkRfWn1XeFh7W-8H#.mp4
+#EXTINF:-1 xui-id="228348" tvg-name="A Feiticeira 1964 S05E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8VNngASEGyY1gEZ8D1GxaJnCXe.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E03
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCDTyFeLALfdhN9WI0Omqs19#.mp4
+#EXTINF:-1 xui-id="228349" tvg-name="A Feiticeira 1964 S05E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBeTDvogMQZfNuxslDSF4AY2YEj.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E04
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYsLujTWkXY5TIAiYuk1cCAKY4oWaBcgjxYJwK-Ne7j9#.mp4
+#EXTINF:-1 xui-id="228350" tvg-name="A Feiticeira 1964 S05E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnSVqzBFybY7M0ttlU1xXVaT6e0.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E05
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKxyWGIQjdFE9kwcDBZ9TBhE#.mp4
+#EXTINF:-1 xui-id="228351" tvg-name="A Feiticeira 1964 S05E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZgsYFPRllfXZP8QJRKYatv33nq.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E06
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKz4B62yfyRKsvv3Q8xnCZLe#.mp4
+#EXTINF:-1 xui-id="228352" tvg-name="A Feiticeira 1964 S05E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTk6Bbuq87wBIyewIfnGNU15Oaz.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E07
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKy4ZzlQU5fhxlIC8JS52bVJ#.mp4
+#EXTINF:-1 xui-id="228353" tvg-name="A Feiticeira 1964 S05E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/botwMdMgMPLawcLemMmp9YXiijP.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E08
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKwMtUgkU5v0QXA00GhSzZVJ#.mp4
+#EXTINF:-1 xui-id="228354" tvg-name="A Feiticeira 1964 S05E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/seYptxV7y6ruwxhcLhFVxU93WKU.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E09
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKxw0-gR-_mbiyPDDGA66sZg#.mp4
+#EXTINF:-1 xui-id="228355" tvg-name="A Feiticeira 1964 S05E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJzLrz147TwTy8rQZIKgEuYwfbn.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E10
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKy4LdDY5fwrBaKR9aLlCpJ4#.mp4
+#EXTINF:-1 xui-id="228356" tvg-name="A Feiticeira 1964 S05E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ob8hOskn3cbYJ0LTKESDNxBOAC.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E11
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKxk-i0NSLsN60X-QOOaepro#.mp4
+#EXTINF:-1 xui-id="228357" tvg-name="A Feiticeira 1964 S05E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVWyFKcoBeM5WYgt7YdqBVy7jD6.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E12
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKxnt6Dt9vSYwdfaZJJzHAaK#.mp4
+#EXTINF:-1 xui-id="228358" tvg-name="A Feiticeira 1964 S05E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG4VdTmPWb31HlsY3CPUobIMrHW.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E13
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKw7PyV1qRziX1hYn1u25q1o#.mp4
+#EXTINF:-1 xui-id="228359" tvg-name="A Feiticeira 1964 S05E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T73lkSxQqgVI4iYu0FzPHC31zb.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E14
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHaBhM5PrjjoiaJmZBVVhZKwyp4kD_2tVAVSFqLbtNaJF#.mp4
+#EXTINF:-1 xui-id="228360" tvg-name="A Feiticeira 1964 S05E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urdYjK8mV3CSP5BuBa4qTf1DZT2.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E15
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eJg5aaHuHN1WeVoo2VvotBL#.mp4
+#EXTINF:-1 xui-id="228361" tvg-name="A Feiticeira 1964 S05E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3z27umcilDpnOxBn2Fxye6o1v8h.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E16
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eL26mTWArB6y373MfmDM3Cr#.mp4
+#EXTINF:-1 xui-id="228362" tvg-name="A Feiticeira 1964 S05E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvJBSLLkeHTDu327zErTvjkrqqN.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E17
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eIlUU6xUks-rqLr4Zc2HWnt#.mp4
+#EXTINF:-1 xui-id="228363" tvg-name="A Feiticeira 1964 S05E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iyRBiX7AeYYoEzeJbr89XiExBhU.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E18
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eJYIwcBPfXjfCY7nNjZJnQf#.mp4
+#EXTINF:-1 xui-id="228364" tvg-name="A Feiticeira 1964 S05E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNZkAMIewByLqKhhXDVxKgyzomc.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E19
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eIr9V_PiQfYaPd95vcn9bLZ#.mp4
+#EXTINF:-1 xui-id="228365" tvg-name="A Feiticeira 1964 S05E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0HkQ6TpTCxUcc2MsN9oVSWLSCR.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E20
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eL7XRHAE8ROM10lhtFa9pXh#.mp4
+#EXTINF:-1 xui-id="228366" tvg-name="A Feiticeira 1964 S05E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfigSYbzzROYmfwaYTumw5wZLQ8.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E21
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eLoF6kbCI1KInHQQrabf3Q2#.mp4
+#EXTINF:-1 xui-id="228367" tvg-name="A Feiticeira 1964 S05E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2jdNjXJXcIBVlanP3yIIxXLKQW.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E22
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eIZ7poPyseyQV8b2DaPVdfQ#.mp4
+#EXTINF:-1 xui-id="228368" tvg-name="A Feiticeira 1964 S05E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mv9cZaq2cyu85tcpOjl1jPO6Beu.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E23
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eIoOI7xPV3v-selOXYYYG36#.mp4
+#EXTINF:-1 xui-id="228369" tvg-name="A Feiticeira 1964 S05E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ps2J9UMfzTdJaXZ9LouewgTqE3X.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E24
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHcFZdykclYli20vlpvuE8eIkvl0UHcCphAiRHIPLT-sl#.mp4
+#EXTINF:-1 xui-id="228370" tvg-name="A Feiticeira 1964 S05E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bS48zUK0vCkTrcQK6BLlSwXBh5p.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E25
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHSGGyoOp447heHnM65Cjt79Q16DBPQ52vBiKAj6y9ozk#.mp4
+#EXTINF:-1 xui-id="228371" tvg-name="A Feiticeira 1964 S05E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iySdWYGtYv3vIvmLlkImFgO29IB.jpg" group-title="SÉRIES > APPLE TV > A FEITICEIRA",A Feiticeira 1964 S05E26
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHSGGyoOp447heHnM65Cjt7-RNHK39j0x7uqwfVAnRcYe#.mp4
+
+#EXTINF:-1 xui-id="234533" tvg-name="A Mulher no Lago 2024 S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LWFhfYlYwMXFBHA37akIdJMdl1.jpg" group-title="SÉRIES > APPLE TV > A MULHER NO LAGO",A Mulher no Lago 2024 S01E01
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHanqW2iYWlOgtLrHiggTyKm4XZ_KqpZjRLgAXMo0ai06#.mp4
+#EXTINF:-1 xui-id="234535" tvg-name="A Mulher no Lago 2024 S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5hQsDwFVrvYPrLNADtdekODHhi.jpg" group-title="SÉRIES > APPLE TV > A MULHER NO LAGO",A Mulher no Lago 2024 S01E02
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHanqW2iYWlOgtLrHiggTyKmUBa1JXKyTXCHDLL2NbETW#.mp4
+#EXTINF:-1 xui-id="234536" tvg-name="A Mulher no Lago 2024 S01E03" tvg-logo="https://image.tmdb.org/t/p/w300/kS0UOsoNAlaD1vvw9TCv4sT1Ykx.jpg" group-title="SÉRIES > APPLE TV > A MULHER NO LAGO",A Mulher no Lago 2024 S01E03
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHanqW2iYWlOgtLrHiggTyKlK60P2-VSExiDzRdoI2eZY#.mp4
+#EXTINF:-1 xui-id="234538" tvg-name="A Mulher no Lago 2024 S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/nDkq9MeczKfoqslpVxv1TeNRKtr.jpg" group-title="SÉRIES > APPLE TV > A MULHER NO LAGO",A Mulher no Lago 2024 S01E04
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHanqW2iYWlOgtLrHiggTyKnQno-qVjyeMp9A30aqhygR#.mp4
+#EXTINF:-1 xui-id="234540" tvg-name="A Mulher no Lago 2024 S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/c27KkmVpqLNRgEa7GItUoqa3nnV.jpg" group-title="SÉRIES > APPLE TV > A MULHER NO LAGO",A Mulher no Lago 2024 S01E05
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYxjewSnJXU0uvctfdtM2AVzCWwmub5gs2P2hdBPV8Wq#.mp4
+#EXTINF:-1 xui-id="234542" tvg-name="A Mulher no Lago 2024 S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/6BJISMKLv0lyrI3yf3DZLbatiNz.jpg" group-title="SÉRIES > APPLE TV > A MULHER NO LAGO",A Mulher no Lago 2024 S01E06
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYxjewSnJXU0uvctfdtM2AUn4I8SRNg8gNZeJ4CLXdcD#.mp4
+#EXTINF:-1 xui-id="234545" tvg-name="A Mulher no Lago 2024 S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/v2JVpgjA4dqti3PC07SqQtcNOyP.jpg" group-title="SÉRIES > APPLE TV > A MULHER NO LAGO",A Mulher no Lago 2024 S01E07
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHYxjewSnJXU0uvctfdtM2AX_8FqLbBGNAJ7rpEo-fkBP#.mp4
+
+#EXTINF:-1 xui-id="250436" tvg-name="Amor Platônico 2023 S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KYObNxzT45sUuGUWw5Em8DmCyy.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E01
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHa7c20_IvxgFobVMxjVuxYpmnp-ZtILbg0hb80uksvcG#.mp4
+#EXTINF:-1 xui-id="250437" tvg-name="Amor Platônico 2023 S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xydh0dxpHJYEznXaAXXO6iu0lnC.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E02
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHa7c20_IvxgFobVMxjVuxYo-dWFU62014PZYyACITpp8#.mp4
+#EXTINF:-1 xui-id="250438" tvg-name="Amor Platônico 2023 S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4US9L1Fs7izSsnZI6hImOBRQPYA.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E03
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHa7c20_IvxgFobVMxjVuxYoJ5pf9E2QIhM7FNCENoMoU#.mp4
+#EXTINF:-1 xui-id="250439" tvg-name="Amor Platônico 2023 S01E04" tvg-logo="https://image.tmdb.org/t/p/w300/68X2LD15cwIi8ohWHMhWSEujk7J.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E04
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHa7c20_IvxgFobVMxjVuxYrBmszo2_45aUvbOdavsJBA#.mp4
+#EXTINF:-1 xui-id="250440" tvg-name="Amor Platônico 2023 S01E05" tvg-logo="https://image.tmdb.org/t/p/w300/dQ8DRjpsRMkHp1JGtZjCHe3GqNm.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E05
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZF14vTJA_VzwR4lll_Q03ux0NrOvHhXqYt-KHNO458V#.mp4
+#EXTINF:-1 xui-id="250441" tvg-name="Amor Platônico 2023 S01E06" tvg-logo="https://image.tmdb.org/t/p/w300/zREBlNPB056XsSQk7IPbAXJ2vfl.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E06
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZF14vTJA_VzwR4lll_Q03uR_H4Ii1_c7dRdRKgWY4M-#.mp4
+#EXTINF:-1 xui-id="250442" tvg-name="Amor Platônico 2023 S01E07" tvg-logo="https://image.tmdb.org/t/p/w300/fcJBIWaW2Ld8zkoopu6ZMhbN1A2.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E07
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZF14vTJA_VzwR4lll_Q03v2avbaHRb7HSDm5UB5WEWn#.mp4
+#EXTINF:-1 xui-id="250443" tvg-name="Amor Platônico 2023 S01E08" tvg-logo="https://image.tmdb.org/t/p/w300/xzzLgC1ELYRZuBRVTc0Fm7yGg2o.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E08
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZF14vTJA_VzwR4lll_Q03vp74SHQwMc7UBjEYagSSvm#.mp4
+#EXTINF:-1 xui-id="250444" tvg-name="Amor Platônico 2023 S01E09" tvg-logo="https://image.tmdb.org/t/p/w300/5s5TypxgHs87I9lc57EED9ApZjk.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E09
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZF14vTJA_VzwR4lll_Q03u5pA2vXqy_mApNJWX1arGm#.mp4
+#EXTINF:-1 xui-id="250445" tvg-name="Amor Platônico 2023 S01E10" tvg-logo="https://image.tmdb.org/t/p/w300/yjrJwtoDvMo7obZpAZpBuPNZKG5.jpg" group-title="SÉRIES > APPLE TV > AMOR PLATONICO",Amor Platônico 2023 S01E10
+http://d.jklmn.pro:80/play/boWzMKr4wDg9sZdHmtEUHZF14vTJA_VzwR4lll_Q03vmuHjEupe5Y86pqxSzM76p#.mp4
